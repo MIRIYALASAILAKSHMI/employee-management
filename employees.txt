@@ -1,1 +1,3 @@
 sai developer
+john manager
+ram tester
